@@ -12,4 +12,4 @@ test:
 
 down:
 	docker stop $(CONTAINER_NAME)
-	docker rm $(CONTAINER_NAME)cd task
+	docker rm $(CONTAINER_NAME)
