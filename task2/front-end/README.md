@@ -68,7 +68,7 @@ Access the site at: `http://localhost:9000`
 ### View logs
 
 ```bash
-make run
+make logs
 ```
 
 Shows real-time Nginx logs.
