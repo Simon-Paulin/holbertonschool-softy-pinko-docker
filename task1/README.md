@@ -1,4 +1,4 @@
-# Task1 – Flask API with Docker
+# Task1 – Flask API with Docker and Makefile shortcut
 
 ## Available commands
 
