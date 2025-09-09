@@ -36,6 +36,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Simon-Paulin/holbertonschool-softy-pinko-docker.git
 cd holbertonschool-softy-pinko-docker
+```
 
 Navigate into the task directory you want to run:
 ```bash
