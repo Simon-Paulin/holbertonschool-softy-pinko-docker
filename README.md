@@ -7,9 +7,7 @@ The project covers containerization, static and dynamic servers, orchestration w
 
 ## Requirements
 
-- [Docker](https://docs.docker.com/get-docker/) (latest version recommended)  
-- [Docker Compose](https://docs.docker.com/compose/install/)  
-- `make` utility (usually pre-installed on Linux/macOS; Windows users can use WSL)
+- [Docker](https://docs.docker.com/get-docker/) (latest version recommended)
 
 ---
 
